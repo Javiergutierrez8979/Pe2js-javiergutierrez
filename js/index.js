@@ -3,13 +3,13 @@ const destinos = [
     {
         nombre: "Córdoba",
         descripcion: "Córdoba es una ciudad situada en el centro de Argentina, famosa por su arquitectura colonial y sus numerosas iglesias.",
-        imagen: "/PE2/img/large_cathedral-cordoba-argentina-shutterstock_1140671330_a570eb940e.jpeg",
+        imagen: "../PE2/img/large_cathedral-cordoba-argentina-shutterstock_1140671330_a570eb940e.jpeg",
         precio: "usd80"
     },
     {
         nombre: "Bariloche",
         descripcion: "Bariloche, en la Patagonia argentina, es conocida por sus impresionantes paisajes de montaña, sus lagos cristalinos y sus chocolates artesanales.",
-        imagen: "/PE2/img/two-tourist-standing-road-near-snowy-mountain.jpg",
+        imagen: "../PE2/img/two-tourist-standing-road-near-snowy-mountain.jpg",
         precio: "u$d100"
     }
 ];
