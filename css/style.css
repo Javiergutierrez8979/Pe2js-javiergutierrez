@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif; /* Fuente genérica sans-serif */
+    margin: 0;
+    padding: 0;
+}
+
+#title {
+    text-align: center;
+    font-size: 2em;
+    color: #333; /* Color de texto oscuro */
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-transform: uppercase; /* Convertir texto a mayúsculas */
+    letter-spacing: 2px; /* Espaciado entre letras */
+}
+
+
+
+/* Estilos para las tarjetas */
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9; /* Fondo gris claro */
+}
+
+.card img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.card h2 {
+    font-size: 1.5em;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.card p {
+    font-size: 1em;
+    color: #555;
+    line-height: 1.4;
+}
